@@ -15,7 +15,7 @@
 > Chargement du profil: HadjamMathieu
 ```
 
-- 👤 Alias : Mathieu (a.k.a. **HadjamMathieu**)  
+- 👤 Alias : Mathieu (**HadjamMathieu**) 
 - 💻 Rôle : **Développeur fullstack & créateur d’outils immersifs**  
 - 🎮 Spécialité :** Développement de panels, site et interfaces responsives** 
 - 🔐 Projets phares : **CYBERPOL**, **FivePanel**, **OSIRIS RP**  
@@ -53,7 +53,7 @@
 
 ## 🔗 Réseaux & connexions
 <p align="center">
-  <a href="https://twitter.com/HadjamMathieu"><img src="https://img.shields.io/badge/Twitter-%40HadjamMathieu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="www.linkedin.com/in/mathieu-hadjam-02209b360"><img src="https://img.shields.io/badge/LinkedIn-Hadjam%20Mathieu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:mathieuhadjam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
