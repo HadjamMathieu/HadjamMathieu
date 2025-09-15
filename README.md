@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-green?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/ROLE-Developer-blue?style=for-the-badge&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/SECTOR-Cyber%20Security-purple?style=for-the-badge&logo=torproject&logoColor=white">
 </p>
 
 ---
