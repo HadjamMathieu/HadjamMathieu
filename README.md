@@ -17,7 +17,7 @@
 
 - 👤 Alias : Mathieu (**HadjamMathieu**) 
 - 💻 Rôle : **Développeur fullstack & créateur d’outils immersifs**  
-- 🎮 Spécialité :** Développement de panels, site et interfaces responsives** 
+- 🎮 Spécialité :**Développement de panels, site et interfaces responsives** 
 - 🔐 Projets phares : **CYBERPOL**, **FivePanel**, **OSIRIS RP**  
 
 ---
