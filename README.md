@@ -1,5 +1,5 @@
-<!-- Banner -->
-<h1 align="center">🛰️ [ACCESS GRANTED] – Profil de @HadjamMathieu</h1>
+
+<h1 align="center">🛰️Profil de @HadjamMathieu</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-ONLINE-green?style=for-the-badge&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/ROLE-Developer-blue?style=for-the-badge&logo=react&logoColor=white">
