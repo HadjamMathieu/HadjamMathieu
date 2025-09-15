@@ -17,7 +17,7 @@
 
 - 👤 Alias : Mathieu (a.k.a. **HadjamMathieu**)  
 - 💻 Rôle : **Développeur fullstack & créateur d’outils immersifs**  
-- 🎮 Spécialité : **Gaming RP**, modding, UI/UX immersives  
+- 🎮 Spécialité :** Développement de panels, site et interfaces responsives** 
 - 🔐 Projets phares : **CYBERPOL**, **FivePanel**, **OSIRIS RP**  
 
 ---
@@ -27,7 +27,8 @@
 [✔] JavaScript / React / TailwindCSS
 [✔] PHP / SQL
 [✔] Lua (FiveM / Game Modding)
-[✔] Git / Docker / Linux
+
+[✔] Utilisation de la suite Adobe pour éditions photos / vidéos
 ```
 
 ---
@@ -35,7 +36,7 @@
 ## 🚨 Missions en cours
 - 🛰️ **CYBERPOL** → Plateforme d’assistance contre le harcèlement en ligne.  
 - ⚡ **FivePanel** → Panel RP immersif pour serveurs FiveM.  
-- 🔒 **OSIRIS RP** → Expérimentation UI/UX avec univers cyberpunk & mystère.  
+- 🔒 **OSIRIS RP** → Expérimentation UI/UX avec univers mystèrieux.  
 
 ---
 
@@ -53,19 +54,9 @@
 ## 🔗 Réseaux & connexions
 <p align="center">
   <a href="https://twitter.com/HadjamMathieu"><img src="https://img.shields.io/badge/Twitter-%40HadjamMathieu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="mailto:ton.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://orcid.org"><img src="https://img.shields.io/badge/ORCID-0000--0002--1825--0097-a6ce39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+  <a href="mailto:mathieuhadjam@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧬 Message crypté
-```
-01001000 01100101 01111001 ... 
-> Le futur du web RP est en construction.
-> OSIRIS.PROTOCOL >> [█████] 95%
-```
-
----
-
-⚡ _"Every line of code is a step deeper into the system."_ ⚡  
+✨ _"Coder, c’est créer un monde… et j’aime quand ce monde est immersif."_ 
