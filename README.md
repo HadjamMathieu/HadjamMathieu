@@ -24,21 +24,21 @@
 ## 🧩 Compétences (skills matrix)
 
 <p align="center">
-  <strong>💻 Développement Web :</strong><br>
+  <strong>💻 Développement Web :</strong><br><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
 </p>
 
 <p align="center">
-  <strong>🗄️ Back-end & Bases de données :</strong><br>
+  <strong>🗄️ Back-end & Bases de données :</strong><br><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </p>
 
 <p align="center">
-  <strong>🎨 Design & Création :</strong><br>
+  <strong>🎨 Design & Création :</strong><br><br>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"> 
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"> 
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
