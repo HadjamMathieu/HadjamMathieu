@@ -22,13 +22,25 @@
 ---
 
 ## 🧩 Compétences (skills matrix)
-```
-[✔] JavaScript / React / TailwindCSS
-[✔] PHP / SQL
-[✔] Lua (FiveM / Game Modding)
 
-[✔] Utilisation de la suite Adobe pour éditions photos / vidéos
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
+</p>
+
 
 ---
 
@@ -36,9 +48,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Versioning-GitHub-black?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Server-OVHcloud-123F6D?style=for-the-badge&logo=ovh&logoColor=white">
-  <img src="https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Terminal-Linux-2D2D2D?style=for-the-badge&logo=linux&logoColor=white">
 </p>
 
 ---
