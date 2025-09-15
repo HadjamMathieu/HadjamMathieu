@@ -98,7 +98,7 @@
 ---
 
 ## 🎧 Fun facts
-- 🎵 Je code souvent en musique ( Je suis un fan de Charles Aznavour).  
+- 🎵 Je code souvent en musique (Je suis un fan de Charles Aznavour).  
 - 🕹️ Fan de **jeux immersifs** (RPG, RP, extraction shooters).  
 - 📖 J’aime innover et prendres des risques pour proposer un contenu original  
 
