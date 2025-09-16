@@ -85,7 +85,6 @@
 
 ## 🌍 Objectifs & vision
 - 🚀 Créer des **interfaces immersives** qui mélangent esthétique et performance.  
-- 🧠 Pousser l’expérience utilisateur jusqu’à la **gamification et le storytelling**.  
 - 📡 Rendre mes outils accessibles à une **communauté internationale**.  
 - 🎯 Objectif long terme : contribuer à des **projets open-source** d’impact global.  
 
