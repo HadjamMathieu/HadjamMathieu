@@ -68,9 +68,10 @@
 
 ## 📊 System Stats
 
-<div align="center">
-  ![Stats GitHub](https://github-readme-stats.vercel.app/api/?username=HadjamMathieu&show_icons=true&theme=tokyonight&hide_border=true)
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/?username=HadjamMathieu&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
+
 
 ---
 
