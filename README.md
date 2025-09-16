@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin:5px;">
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" style="margin:5px;">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" style="margin:5px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="margin:5px;">
 </p>
+
 
 <p align="center" style="background-color:#1E1E2F; padding:15px; border-radius:10px; margin-top:10px;">
   <strong style="font-size:18px;">🎨 Design & Création</strong><br><br>
