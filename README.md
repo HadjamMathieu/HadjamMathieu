@@ -74,13 +74,6 @@
   
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=HadjamMathieu&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HadjamMathieu&layout=compact&theme=tokyonight&hide_border=true)
-
-![Repos](https://img.shields.io/badge/Repos-20-blue?style=for-the-badge&logo=github)
-
-![Stars](https://img.shields.io/github/stars/HadjamMathieu?style=for-the-badge&logo=github)
-
-
 </div>
 
 
