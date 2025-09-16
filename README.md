@@ -78,6 +78,15 @@
 
 ![Trophées](https://github-profile-trophy.vercel.app/?username=HadjamMathieu&theme=matrix&margin-w=5&no-bg=true&no-frame=true)
 
+![Snake animation](https://github.com/HadjamMathieu/HadjamMathieu/blob/output/github-contribution-grid-snake.svg)
+
+![Repos](https://img.shields.io/badge/Repos-20-blue?style=for-the-badge&logo=github)
+
+![Followers](https://img.shields.io/github/followers/HadjamMathieu?style=for-the-badge&logo=github)
+
+![Stars](https://img.shields.io/github/stars/HadjamMathieu?style=for-the-badge&logo=github)
+
+
 </div>
 
 
